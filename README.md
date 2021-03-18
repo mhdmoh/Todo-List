@@ -10,15 +10,15 @@ todo list application with android java
   	- set a category for the task
   	- set a date for the task
 
-3.you can delete tasks and catagories
+3. you can delete tasks and catagories
 
-4.you can set a task as done
+4. you can set a task as done
 
-5.you can see the progress you made with the tasks
+5. you can see the progress you made with the tasks
 
-6.you can open a calendar view and check the tasks in a specific date
+6. you can open a calendar view and check the tasks in a specific date
 
-7.each day at 12:00 AM you will get a notification telling you how many tasks you have today
+7. each day at 12:00 AM you will get a notification telling you how many tasks you have today
 
 ## Used in this app :
 - constraintlayout
