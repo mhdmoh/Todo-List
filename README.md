@@ -21,13 +21,17 @@ todo list application with android java
 7. each day at 12:00 AM you will get a notification telling you how many tasks you have today
 
 ## Used in this app :
-- constraintlayout
-- recyclerview
-- floatingactionbutton
-- room database
-- progreswheelview
-- lifecycle
-- viewModels
+- Architecture :
+    - [LifeCycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+    - [Room](https://developer.android.com/jetpack/androidx/releases/room)
+    - [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
+ - UI :
+    - [ConstraintLayout](https://developer.android.com/reference/androidx/constraintlayout/widget/ConstraintLayout) 
+    - [CollapsingToolbarLayout](https://developer.android.com/reference/com/google/android/material/appbar/CollapsingToolbarLayout)
+    - [recyclerview](https://developer.android.com/jetpack/androidx/releases/recyclerview)
+ - Third party and miscellaneous libraries : 
+    - [Android-WheelProgress](https://github.com/zekapp/Android-ProgressViews)
+    - [Floating Action Button](https://github.com/zendesk/android-floating-action-button)
 
 ## Screenshots :
 <p float="left">
