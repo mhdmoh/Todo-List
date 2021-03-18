@@ -18,6 +18,17 @@ todo list application with android java
 
 6.you can open a calendar view and check the tasks in a specific date
 
+7.each day at 12:00 AM you will get a notification telling you how many tasks you have today
+
+## Used in this app :
+- constraintlayout
+- recyclerview
+- floatingactionbutton
+- room database
+- progreswheelview
+- lifecycle
+- viewModels
+
 ## Screenshots :
 <p float="left">
 <img src="https://user-images.githubusercontent.com/80918411/111702841-8cb93100-8845-11eb-8e79-3e62e6dc9e19.png" width="270" height="480">
